@@ -1,0 +1,12 @@
+.nav-image{
+background: url('img/purplebackground.jpg');
+}
+
+.main-image{
+    height: 500px;
+    background: url('img/purplebackground.jpg');
+}
+
+.main-img-header{
+    margin-top: 0;
+}
